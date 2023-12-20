@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 
 const TodoForm = () => {
-    const  [text, setText] = useState("");
+  const [text, setText] = useState("");
   const onFormSubmit = () => {};
   const onInputChange = (e) => {
     // console.log(e.target.value);
