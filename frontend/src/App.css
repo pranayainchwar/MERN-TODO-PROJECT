@@ -1,0 +1,22 @@
+body{
+  width:50%;
+  margin:0 auto;
+}
+header{
+  text-align: center;
+}
+header h1 {
+  font-size: 100px;
+  color:#2c3e50;
+  /* color:orangered; */
+  font-weight: 200;
+}
+input {
+  font-size:25px;
+  color:#2c3e50;
+  width:100%;
+  border:none;
+  outline:none;
+  border-bottom: 2px solid #2c3e50;
+
+}
