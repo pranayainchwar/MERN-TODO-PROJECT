@@ -4,9 +4,9 @@ import {createStore, combineReducers, applyMiddleware, } from 'redux';
 import { composeWithDevTools } from 'redux-devtools-extension'; 
 //we are using the thunk middleware 
 import {thunk} from 'redux-thunk';
-import todosReducers from './todosReducer';
+import todosReducer from './todosReducer';
 const reducer = combineReducers({
-    todos:todosReducers,
+    todos:todosReducer,
 
 }) 
 
