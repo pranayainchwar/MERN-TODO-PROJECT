@@ -1,4 +1,7 @@
 # MERN Todo List Project
+LinkedIn Profile: https://www.linkedin.com/in/pranay-ainchwar-76563719b/
+
+Download the zip file to run the code 
 
 ![mern-todo-project](https://github.com/pranayainchwar/MERN-TODO-PROJECT/assets/122523118/d5b40cab-e081-4eae-bd15-3b1dde153969)
 
@@ -29,11 +32,6 @@ This project aims to create a full-stack web application for managing tasks. It 
 Make sure you have the following installed on your machine:
 
 - Node.js & npm (Node Package Manager)
-- MongoDB (Make sure MongoDB server is running)
+- MongoDB (Make sure the MongoDB server is running)
 
-### Installation
 
-1. Clone this repository:
-
-   ```bash
-   git clone https://github.com/your-username/mern-todo-list.git
